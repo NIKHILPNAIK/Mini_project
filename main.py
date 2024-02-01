@@ -18,3 +18,4 @@ suma = add(n1, n2)
 subtract = sub(n1, n2)
 
 print(f"Sum is f{suma} and difference is f{subtract}")
+print("nothing")
